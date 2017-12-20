@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family:Times New Roman Bold;
+}
+body{
+    width: 100%;
+    height: 890px;
+    background: url("../img/timg.jpg") center/cover no-repeat;
+}
+.box>div:first-child>span,.box>div:last-child>span{
+    font-size: 30px;
+    font-weight: bold;
+    color: #3eb4fa;
+}
+.box{
+    margin-top: 20px;
+    margin-left: 100px;
+}
